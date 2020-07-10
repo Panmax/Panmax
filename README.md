@@ -5,7 +5,7 @@
 - 💬 Ask me about Java、Python or anything about Web.
 - 📫 How to reach me: jiapan.china#gmail.com
 
-Chaos isn't a pit. Chaos is a ladder. 
+> Chaos isn't a pit. Chaos is a ladder. 
 
 <!--
 **Panmax/Panmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
