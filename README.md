@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [奇安信](https://www.qianxin.com/)
-- 🌱 I’m currently learning Meditation.
-- 💬 Ask me about Java、Python or anything about Web.
+- 🌱 I’m currently learning 🧘🏻
+- 💬 Ask me everything
 - 📫 How to reach me: jiapan.china#gmail.com
 
 > Chaos isn't a pit. Chaos is a ladder. 
