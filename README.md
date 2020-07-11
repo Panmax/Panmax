@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [奇安信](https://www.qianxin.com/)
 - 🌱 I’m currently learning 🧘🏻
-- 💬 Ask me everything
+- 💬 Ask me [everything](https://github.com/Panmax/Panmax/issues)
 - 📫 How to reach me: jiapan.china#gmail.com
 
 > Chaos isn't a pit. Chaos is a ladder. 
