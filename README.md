@@ -1,3 +1,10 @@
+<p align="center">
+  <img align="center" src="https://github.com/panmax/panmax/raw/master/developer.gif"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=panmax&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=panmax&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [探探科技🦊](https://zh.wikipedia.org/wiki/%E6%8E%A2%E6%8E%A2)
