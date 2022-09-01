@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 探探科技🦊
-- 🌱 I’m currently learning 🧘🏻
+- 🌱 I’m currently learning 🧘🏻 and 🛹
 - 💬 Ask me [everything](https://github.com/Panmax/Panmax/issues)
 - 📫 How to reach me: jiapan.china#gmail.com
 
