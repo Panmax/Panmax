@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on 探探科技🦊
 - 🌱 I’m currently learning 🧘🏻 and 🛹
 - 💬 Ask me [everything](https://github.com/Panmax/Panmax/issues)
-- 📫 How to reach me: jiapan.china#gmail.com
+- 📫 How to reach me: hi@jiapan.me
 
 > Chaos isn't a pit. Chaos is a ladder. 
 
